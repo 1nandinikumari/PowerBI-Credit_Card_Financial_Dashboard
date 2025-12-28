@@ -125,6 +125,7 @@ Based on insights, the following actions are recommended:
 - **Credit Card Transaction Report** – Transaction KPIs, revenue by expenditure, card usage, quarterly & weekly analysis.  
 - **Credit Card Customer Report** – Customer demographics, income & education segmentation, satisfaction score analysis.  
 
+
 ---
 
 ✨ This project demonstrates how business intelligence dashboards can convert raw financial data into meaningful insights that support **data-driven decision-making**.
